@@ -1,0 +1,12 @@
+// before the game opens/loads
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenLoginUnified/ScreenLoginUnified",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2"
+]
+{
+  "isReplay": false,
+  "displayTime": 0,
+  "players": []
+}

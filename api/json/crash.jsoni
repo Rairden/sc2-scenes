@@ -1,0 +1,688 @@
+######################  home  ######################
+      68ms  168ms
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenReplay/ScreenReplay",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2"
+]
+{
+  "isReplay": true,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Molan",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  home  ######################
+      12ms  1.44s
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2",
+  "ScreenMultiplayer/ScreenMultiplayer"
+]
+{
+  "isReplay": true,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Molan",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  home  ######################
+      31ms  2.467s
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2",
+  "ScreenCustom/ScreenCustom"
+]
+{
+  "isReplay": true,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Molan",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  home  ######################
+      65ms  11.133s
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2",
+  "ScreenBattleLobby/ScreenBattleLobby",
+  "ScreenCustom/ScreenCustom"
+]
+{
+  "isReplay": true,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Molan",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  home  ######################
+     2.54s  48.828s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": true,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Molan",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  home  ######################
+     208ms  51.82s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": false,
+  "displayTime": 0,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Undecided",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+       7ms  53.566s
+[]
+{
+  "isReplay": false,
+  "displayTime": 0,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Undecided",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+       7ms  58.485s
+[]
+{
+  "isReplay": false,
+  "displayTime": 1,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Undecided",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+       6ms  59.452s
+[]
+{
+  "isReplay": false,
+  "displayTime": 2,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Undecided",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+       7ms  1m0.419s
+[]
+{
+  "isReplay": false,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Undecided",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+       6ms  1m1.487s
+[]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Undecided",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+       8ms  1m1.595s
+[]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  home  ######################
+     355ms  1m2.264s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  score screen  ######################
+      30ms  1m4.249s
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2",
+  "ScreenScore/ScreenScore",
+  "ScreenCustom/ScreenCustom"
+]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  home  ######################
+      28ms  1m5.657s
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2",
+  "ScreenCustom/ScreenCustom"
+]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  home  ######################
+     384ms  1m6.653s
+[
+  "ScreenBackgroundSC2/ScreenBackgroundSC2",
+  "ScreenReplay/ScreenReplay",
+  "ScreenNavigationSC2/ScreenNavigationSC2",
+  "ScreenForegroundSC2/ScreenForegroundSC2"
+]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  in game  ######################
+    2.588s  1m12.58s
+[]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  home  ######################
+      23ms  1m12.704s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": false,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Defeat",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "A.I. 1 (Very Easy)",
+      "race": "random",
+      "result": "Victory",
+      "type": "computer"
+    }
+  ]
+}
+######################  home  ######################
+     153ms  1m15.445s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": true,
+  "displayTime": 0,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+      43ms  1m16.203s
+[]
+{
+  "isReplay": true,
+  "displayTime": 0,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+      65ms  1m21.001s
+[]
+{
+  "isReplay": true,
+  "displayTime": 1,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+      65ms  1m21.925s
+[]
+{
+  "isReplay": true,
+  "displayTime": 2,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+      33ms  1m23.017s
+[]
+{
+  "isReplay": true,
+  "displayTime": 3,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+      10ms  1m23.947s
+[]
+{
+  "isReplay": true,
+  "displayTime": 4,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+       6ms  1m24.923s
+[]
+{
+  "isReplay": true,
+  "displayTime": 5,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  in replay  ######################
+      13ms  1m26.139s
+[]
+{
+  "isReplay": true,
+  "displayTime": 6,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  home  ######################
+     367ms  1m26.941s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": true,
+  "displayTime": 6,
+  "players": [
+    {
+      "id": 1,
+      "name": "Rairden",
+      "race": "Zerg",
+      "result": "Undecided",
+      "type": "user"
+    },
+    {
+      "id": 2,
+      "name": "Хрусткостей",
+      "race": "Prot",
+      "result": "Undecided",
+      "type": "user"
+    }
+  ]
+}
+######################  closed  ######################
+     190ms  1m28.556s
+[
+  "ScreenLoading/ScreenLoading"
+]
+{
+  "isReplay": false,
+  "displayTime": 0,
+  "players": null
+}
+######################  closed  ######################
+        0s  1m28.657s
+null
+{
+  "isReplay": false,
+  "displayTime": 0,
+  "players": null
+}
