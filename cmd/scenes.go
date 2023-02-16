@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/Rairden/sc2-scenes/scene"
 	"github.com/google/go-cmp/cmp"
-	"gitlab.com/Rairden/sc2-scenes/scene"
 )
 
 var (

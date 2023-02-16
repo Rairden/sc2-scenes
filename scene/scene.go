@@ -6,9 +6,9 @@ import (
 	"io"
 	"net/http"
 
+	"github.com/Rairden/sc2-scenes/api/game"
+	"github.com/Rairden/sc2-scenes/api/ui"
 	"github.com/google/go-cmp/cmp"
-	"gitlab.com/Rairden/sc2-scenes/api/game"
-	"gitlab.com/Rairden/sc2-scenes/api/ui"
 )
 
 type Menu int

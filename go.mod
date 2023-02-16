@@ -1,5 +1,5 @@
-module gitlab.com/Rairden/sc2-scenes
+module github.com/Rairden/sc2-scenes
 
-go 1.19
+go 1.20
 
 require github.com/google/go-cmp v0.5.9
